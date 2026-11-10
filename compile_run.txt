@@ -1,0 +1,7 @@
+//Compile 
+
+javac -encoding UTF-8 Chess.java
+
+//Run
+
+java Chess
